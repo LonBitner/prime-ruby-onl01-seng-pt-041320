@@ -1,2 +1,4 @@
 def prime?(number)
-    
+
+
+end
